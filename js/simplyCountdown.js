@@ -107,8 +107,8 @@
                 year: 2020,
                 month: 11,
                 day: 27,
-                hours: -1110,
-                minutes: -1110,
+                hours: -1130,
+                minutes: -1350,
                 seconds: 0,
                 words: {
                     days: 'day',
